@@ -1,0 +1,11 @@
+{
+  "name": "Lá Chắn Gia Đình",
+  "description": "Trợ lý AI bảo vệ người cao tuổi và gia đình khỏi tin nhắn, cuộc gọi và hình ảnh lừa đảo trực tuyến.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
